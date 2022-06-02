@@ -1,4 +1,4 @@
-[![Netlify Status]([![Netlify Status](https://api.netlify.com/api/v1/badges/e77d3ab1-800a-4ed2-a548-c13fd9b73a81/deploy-status)](https://app.netlify.com/sites/exquisite-duckanoo-06f53c/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e77d3ab1-800a-4ed2-a548-c13fd9b73a81/deploy-status)](https://app.netlify.com/sites/exquisite-duckanoo-06f53c/deploys)
 
 # E-COMMERCE CODERHOUSE
 
