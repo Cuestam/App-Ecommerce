@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5569b128-6da9-4189-8460-43587c1ffb13/deploy-status)](https://app.netlify.com/sites/reliable-unicorn-d21457/deploys)
+[![Netlify Status]([![Netlify Status](https://api.netlify.com/api/v1/badges/e77d3ab1-800a-4ed2-a548-c13fd9b73a81/deploy-status)](https://app.netlify.com/sites/exquisite-duckanoo-06f53c/deploys)
 
 # E-COMMERCE CODERHOUSE
 
@@ -9,4 +9,4 @@ Dentro del carrito se pueden borrar los productos que no deseamos y confirmar la
 
 *Para su realización se utilizo html, sass, react, react dom, react router dom, react toastify y firebase.
 
-[Link a la pagina terminada](https://reliable-unicorn-d21457.netlify.app/)
+[Link a la pagina terminada](https://exquisite-duckanoo-06f53c.netlify.app/)
