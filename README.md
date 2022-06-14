@@ -9,4 +9,14 @@ Dentro del carrito se pueden borrar los productos que no deseamos y confirmar la
 
 *Para su realización se utilizo html, sass, react, react dom, react router dom, react toastify y firebase.
 
-[Link a la pagina terminada](https://exquisite-duckanoo-06f53c.netlify.app/)
+Install
+---
+
+`npm install`
+
+
+
+Usage
+---
+
+`npm start`
