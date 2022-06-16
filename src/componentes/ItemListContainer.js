@@ -6,6 +6,8 @@ import { useParams } from "react-router-dom"
 import { toast } from "react-toastify"
 import { useContext, } from "react"
 import { search } from "../context/SearchContext"
+import Carrousel from "../carousel/Carrousel"
+
 
 const ItemListContainer = ({ item }) => {
 
@@ -58,10 +60,16 @@ const ItemListContainer = ({ item }) => {
 
         <section >
           {filtrado ? <p className="noEncontrado">Producto no encontrado</p> :
+          <div>
+         { category ? '' : <Carrousel />}
+          
             <div className="titulo">
+              
               <h2>Nuestros productos</h2>
+            </div>
             </div>}
           <ItemList productos={productos} />
+    
         </section>
       }
     </>)
